@@ -1,0 +1,29 @@
+<RCC>
+    <qresource prefix="/icons">
+        <file>Resources/filesave.png</file>
+        <file>Resources/int.png</file>
+        <file>Resources/move.png</file>
+        <file>Resources/mult.png</file>
+        <file>Resources/offset.png</file>
+        <file>Resources/open.png</file>
+        <file>Resources/opt.png</file>
+        <file>Resources/prefs.png</file>
+        <file>Resources/print.png</file>
+        <file>Resources/region.png</file>
+        <file>Resources/reset.png</file>
+        <file>Resources/resize.png</file>
+        <file>Resources/savecsv.png</file>
+        <file>Resources/savetiff.png</file>
+        <file>Resources/saveudf.png</file>
+        <file>Resources/truncate.png</file>
+        <file>Resources/viewmag.png</file>
+        <file>Resources/exclude.png</file>
+        <file>Resources/icon.icns</file>
+        <file>Resources/find.png</file>
+        <file>Resources/minmax.png</file>
+        <file>Resources/geometry.png</file>
+        <file>Resources/log.png</file>
+        <file>Resources/bgs.png</file>
+        <file>Resources/apply.png</file>
+    </qresource>
+</RCC>

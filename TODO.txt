@@ -1,0 +1,24 @@
+TODO
+----
+
+- Make normalize intensities an option
+- Make integration width an option
+- Test and fix zooming bugs
+- Reset when opening a new film
+- Save a summary file of the operations that were performed on the film
+- Separate levels for display and analysis and a window to adjust brightness/gamma of display film
+- Confidence interval for optimization or a guess at uncertainty
+- Saving and printing of the film (note: saving doesn't store the dpi?)
+- Tooltips throughout
+- Documentation in code and external
+- Print all relevant data to the log
+- Suggest save file name based on image name and remember last directory
+- Test repeatability of centering and optimization
+- Progress bars for optimization (this may be difficult with the new way!)
+- Optimization region for sharpness (different green marque)
+- Check that udf is being output correctly
+- Possibly add a different save file type that is supported by all major software
+- Bug with plot reset?
+- Auto find some guess centers upon loading?
+- Shortcuts for everything
+- Always show 2theta plot info (even in zoom mode)
